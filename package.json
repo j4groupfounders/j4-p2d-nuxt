@@ -32,7 +32,7 @@
     "happy-dom": "^13.10.1",
     "lint-staged": "^15.2.2",
     "msw": "^2.2.13",
-    "nuxt": "^3.11.1",
+    "nuxt": "3.21.11",
     "organize-imports-cli": "^0.10.0",
     "playwright-core": "^1.43.0",
     "sass": "^1.72.0",
