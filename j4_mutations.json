@@ -1,0 +1,32 @@
+[
+  [
+    "login-heading",
+    "pages/login.vue",
+    "            Sign in\n          </h1>",
+    "            Log in\n          </h1>"
+  ],
+  [
+    "login-need-account",
+    "pages/login.vue",
+    "Need an account?",
+    "Create an account?"
+  ],
+  [
+    "register-heading",
+    "pages/register.vue",
+    "            Sign up\n          </h1>",
+    "            Join now\n          </h1>"
+  ],
+  [
+    "register-have-account",
+    "pages/register.vue",
+    "have an account?",
+    "already registered?"
+  ],
+  [
+    "index-your-feed",
+    "pages/index.vue",
+    ">\n                  Your feed",
+    ">\n                  My feed"
+  ]
+]
